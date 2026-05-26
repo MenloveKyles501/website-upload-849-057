@@ -1,0 +1,11 @@
+{
+  "movies_parsed": 2000,
+  "html_files": 2012,
+  "movie_detail_pages": 2000,
+  "category_pages": 8,
+  "category_cards": 2000,
+  "search_cards": 2000,
+  "player_pages": 2000,
+  "baidu_checked_html_files": 2012,
+  "issues": []
+}

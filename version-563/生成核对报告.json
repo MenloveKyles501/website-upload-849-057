@@ -1,0 +1,11 @@
+{
+  "parsed_movies": 2000,
+  "detail_pages": 2000,
+  "category_pages": 10,
+  "html_pages": 2015,
+  "all_details_created": true,
+  "all_movies_linked_from_categories": true,
+  "baidu_script_in_all_html": true,
+  "player_markup_sample_ok": true,
+  "logo_ok": true
+}
